@@ -12,3 +12,4 @@ c:\Users\Edmarcio Fonseca\OneDrive - PARTNER SOLUÇÕES EMPRESARIAIS LTDA\Área 
 c:\Users\Edmarcio Fonseca\OneDrive - PARTNER SOLUÇÕES EMPRESARIAIS LTDA\Área de Trabalho\Ed- Estudos\Calculadora\bin\Debug\net9.0\Calculadora.pdb
 c:\Users\Edmarcio Fonseca\OneDrive - PARTNER SOLUÇÕES EMPRESARIAIS LTDA\Área de Trabalho\Ed- Estudos\Calculadora\obj\Debug\net9.0\Calculadora.genruntimeconfig.cache
 c:\Users\Edmarcio Fonseca\OneDrive - PARTNER SOLUÇÕES EMPRESARIAIS LTDA\Área de Trabalho\Ed- Estudos\Calculadora\obj\Debug\net9.0\ref\Calculadora.dll
+c:\Users\Edmarcio Fonseca\OneDrive - PARTNER SOLUÇÕES EMPRESARIAIS LTDA\Área de Trabalho\Ed- Estudos\Calculadora\obj\Debug\net9.0\Calculadora.sourcelink.json
