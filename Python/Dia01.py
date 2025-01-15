@@ -22,5 +22,4 @@ print(Peso);
 print(Existe);
 print(Visivel);
 
-
 #endregion
