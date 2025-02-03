@@ -15,7 +15,7 @@ Nota < a 5 VOCE REPROVADO
 Nota = float(input("Digite a nota do aluno: "))
 
 if Nota>=9:
-    print(f"EXELENTE NOTA A EM PONTOS FICOU: {Nota}")
+    print(f"EXELENTE NOTA A EM PONTOS FICOU:{Nota}")
 elif Nota>=7:
     print("BOM TRABALHO NOTA B EM PONTOS FICOU: {Nota}")
 elif Nota>=5:
