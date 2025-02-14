@@ -9,9 +9,9 @@ Valor = float(input("Qual o valor do produto? "))
 Confirmar = str(input("Confirma a compra ?  S (SIM) / N (NÃO)"))
 
 if Confirmar == "sim":
-    Compra_Confirmada= True
+    Compra_Confirmada = True
 else:
-    Compra_Confirmada=False
+    Compra_Confirmada = False
 
 for enviar in range(3):
     if Compra_Confirmada:

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Edmarcio Fonseca\\OneDrive - PARTNER SOLUÇÕES EMPRESARIAIS LTDA\\Área de Trabalho\\Ed- Estudos\\Calculadora\\Calculadora.csproj": {}
+    "C:\\Users\\Edmarcio Fonseca\\OneDrive - PARTNER SOLUÇÕES EMPRESARIAIS LTDA\\Área de Trabalho\\Ed- Estudos\\Calculadora\\Calculadora.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Edmarcio Fonseca\\OneDrive - PARTNER SOLUÇÕES EMPRESARIAIS LTDA\\Área de Trabalho\\Ed- Estudos\\Calculadora\\Calculadora.csproj": {
+    "C:\\Users\\Edmarcio Fonseca\\OneDrive - PARTNER SOLUÇÕES EMPRESARIAIS LTDA\\Área de Trabalho\\Ed- Estudos\\Calculadora\\Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Edmarcio Fonseca\\OneDrive - PARTNER SOLUÇÕES EMPRESARIAIS LTDA\\Área de Trabalho\\Ed- Estudos\\Calculadora\\Calculadora.csproj",
+        "projectUniqueName": "C:\\Users\\Edmarcio Fonseca\\OneDrive - PARTNER SOLUÇÕES EMPRESARIAIS LTDA\\Área de Trabalho\\Ed- Estudos\\Calculadora\\Calculadora.csproj",
         "projectName": "Calculadora",
-        "projectPath": "c:\\Users\\Edmarcio Fonseca\\OneDrive - PARTNER SOLUÇÕES EMPRESARIAIS LTDA\\Área de Trabalho\\Ed- Estudos\\Calculadora\\Calculadora.csproj",
+        "projectPath": "C:\\Users\\Edmarcio Fonseca\\OneDrive - PARTNER SOLUÇÕES EMPRESARIAIS LTDA\\Área de Trabalho\\Ed- Estudos\\Calculadora\\Calculadora.csproj",
         "packagesPath": "C:\\Users\\Edmarcio Fonseca\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Edmarcio Fonseca\\OneDrive - PARTNER SOLUÇÕES EMPRESARIAIS LTDA\\Área de Trabalho\\Ed- Estudos\\Calculadora\\obj\\",
+        "outputPath": "C:\\Users\\Edmarcio Fonseca\\OneDrive - PARTNER SOLUÇÕES EMPRESARIAIS LTDA\\Área de Trabalho\\Ed- Estudos\\Calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Edmarcio Fonseca\\AppData\\Roaming\\NuGet\\NuGet.Config"
